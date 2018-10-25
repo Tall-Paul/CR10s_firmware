@@ -555,4 +555,7 @@
 
 #define UNIFIED_VERSION "TH3D U1.R2.4b"
 
+//uncomment below line if using Creality supplied probe
+#define CREALITY_OEM_PROBE
+
 #endif // CONFIGURATION_H
